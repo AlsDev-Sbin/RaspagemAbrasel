@@ -1,0 +1,14 @@
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\obj\Debug\RaspagemAbrasel.csproj.AssemblyReference.cache
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\obj\Debug\RaspagemAbrasel.Properties.Resources.resources
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\obj\Debug\RaspagemAbrasel.csproj.GenerateResource.cache
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\obj\Debug\RaspagemAbrasel.csproj.CoreCompileInputs.cache
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\obj\Debug\RaspagemAbrasel.exe
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\obj\Debug\RaspagemAbrasel.pdb
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\bin\Debug\RaspagemAbrasel.exe.config
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\bin\Debug\RaspagemAbrasel.exe
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\bin\Debug\RaspagemAbrasel.pdb
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\bin\Debug\Geckofx-Core.dll
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\bin\Debug\Geckofx-Winforms.dll
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\bin\Debug\Geckofx-Core.pdb
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\AndreLuiz\source\repos\RaspagemAbrasel\obj\Debug\RaspagemAbrasel.Form1.resources
