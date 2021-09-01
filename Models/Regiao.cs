@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace RaspagemAbrasel.Models
 {
@@ -10,6 +6,8 @@ namespace RaspagemAbrasel.Models
 	{
 		public string Nome { get; set; }
 		public string Link { get; set; }
-		//public 
+		public List<string> LinkExt { get; set; }
+		public bool? ExisteCidades { get; set; }
+		public List<Cidade> Cidades { get; set; }
 	}
 }
